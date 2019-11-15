@@ -26,8 +26,8 @@ package scte35
 
 import (
 	"bytes"
-	"github.com/Comcast/gots"
-	"github.com/Comcast/gots/psi"
+	"github.com/jgert/gots"
+	"github.com/jgert/gots/psi"
 	"testing"
 )
 

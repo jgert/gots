@@ -25,7 +25,7 @@ SOFTWARE.
 package scte35
 
 import (
-	"github.com/Comcast/gots"
+	"github.com/jgert/gots"
 )
 
 // CreateSpliceInsertCommand will create a default SpliceInsertCommand.

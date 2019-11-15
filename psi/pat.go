@@ -28,8 +28,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/Comcast/gots"
-	"github.com/Comcast/gots/packet"
+	"github.com/jgert/gots"
+	"github.com/jgert/gots/packet"
 )
 
 const (
